@@ -1,0 +1,16 @@
+2024-03-04 18:17:02 INFO  DatabaseUpdateTask:54 - Update DB
+2024-03-04 18:17:02 INFO  DatabaseUpdateTask:91 - Info for DB: {"reportType":"GET_SALES_AND_TRAFFIC_REPORT","reportOptions":{"dateGranularity":"DAY","asinGranularity":"PARENT"},"dataStartTime":"2024-02-14","dataEndTime":"2024-02-26","marketplaceIds":["ATVPDKIKX0DER"]}
+2024-03-04 18:17:03 INFO  DatabaseUpdateTask:135 - DB update completed in 506632200 nano
+2024-03-04 18:17:03 INFO  DatabaseUpdateTask:136 - DB update completed in 0 sec
+2024-03-04 18:17:12 INFO  DatabaseUpdateTask:54 - Update DB
+2024-03-04 18:17:12 INFO  DatabaseUpdateTask:91 - Info for DB: {"reportType":"GET_SALES_AND_TRAFFIC_REPORT","reportOptions":{"dateGranularity":"DAY","asinGranularity":"PARENT"},"dataStartTime":"2024-02-14","dataEndTime":"2024-02-26","marketplaceIds":["ATVPDKIKX0DER"]}
+2024-03-04 18:17:12 INFO  DatabaseUpdateTask:135 - DB update completed in 52689700 nano
+2024-03-04 18:17:12 INFO  DatabaseUpdateTask:136 - DB update completed in 0 sec
+2024-03-04 18:27:37 INFO  DatabaseUpdateTask:54 - Update DB
+2024-03-04 18:27:37 INFO  DatabaseUpdateTask:91 - Info for DB: {"reportType":"GET_SALES_AND_TRAFFIC_REPORT","reportOptions":{"dateGranularity":"DAY","asinGranularity":"PARENT"},"dataStartTime":"2024-02-14","dataEndTime":"2024-02-26","marketplaceIds":["ATVPDKIKX0DER"]}
+2024-03-04 18:27:37 INFO  DatabaseUpdateTask:135 - DB update completed in 184218200 nano
+2024-03-04 18:27:37 INFO  DatabaseUpdateTask:136 - DB update completed in 0 sec
+2024-03-04 18:28:43 INFO  DatabaseUpdateTask:54 - Update DB
+2024-03-04 18:28:43 INFO  DatabaseUpdateTask:91 - Info for DB: {"reportType":"GET_SALES_AND_TRAFFIC_REPORT","reportOptions":{"dateGranularity":"DAY","asinGranularity":"PARENT"},"dataStartTime":"2024-02-14","dataEndTime":"2024-02-26","marketplaceIds":["ATVPDKIKX0DER"]}
+2024-03-04 18:28:43 INFO  DatabaseUpdateTask:135 - DB update completed in 525689200 nano
+2024-03-04 18:28:43 INFO  DatabaseUpdateTask:136 - DB update completed in 0 sec
